@@ -117,8 +117,8 @@ The React Compiler is not enabled in this project. React hooks such as useMemo a
 
 ## Project Links
 
-- **GitHub Repository:** ADD_YOUR_GITHUB_LINK
-- **Live Website:** ADD_YOUR_DEPLOYED_WEBSITE_LINK
+- **GitHub Repository:** https://github.com/emerancehimbazwe/studyflow
+- **Live Website:** https://studyflow-psi-dusky.vercel.app/
 - **Demo Video:** ADD_YOUR_DEMO_VIDEO_LINK
 
 ## Author
